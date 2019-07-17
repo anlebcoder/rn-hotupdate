@@ -1,0 +1,37 @@
+{
+  "_from": "rn-hotupdate-d3j@^0.1.5",
+  "_id": "rn-hotupdate-d3j@0.1.9",
+  "_inBundle": false,
+  "_integrity": "sha512-FkXAt44tJXAfKtx4Zy+JYYAFejz9LIMeB9OUS0RoqsYUomikEWVTMIWkwn9SnTaOIfqyIvydvFBjVnOc1FxZXg==",
+  "_location": "/rn-hotupdate-d3j",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "rn-hotupdate-d3j@^0.1.5",
+    "name": "rn-hotupdate-d3j",
+    "escapedName": "rn-hotupdate-d3j",
+    "rawSpec": "^0.1.5",
+    "saveSpec": null,
+    "fetchSpec": "^0.1.5"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://pm.d3j.io/file/rn-hotupdate-d3j/0.1.9.tgz",
+  "_shasum": "522889d8367ad3f8715b98d207931c3076ad25ec",
+  "_spec": "rn-hotupdate-d3j@^0.1.5",
+  "_where": "/Users/apple/Desktop/work/t1plusApp",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "rn-hotupdate-d3j",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.0"
+}

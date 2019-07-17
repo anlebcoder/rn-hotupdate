@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/apple/Desktop/work/t2/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/apple/.android/build-cache/7f40c08e68b6d3643f16daebed768cd82a37a4ee/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/huyiming/Projects/company/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/huyiming/.android/build-cache/d4ff6e864c8bb3be332e34c6124da950734ba9db/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/work/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/apple/.android/build-cache/7f40c08e68b6d3643f16daebed768cd82a37a4ee/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/work/t2/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/apple/.android/build-cache/7f40c08e68b6d3643f16daebed768cd82a37a4ee/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/work/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/apple/.android/build-cache/7f40c08e68b6d3643f16daebed768cd82a37a4ee/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/huyiming/Projects/company/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/huyiming/.android/build-cache/d4ff6e864c8bb3be332e34c6124da950734ba9db/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

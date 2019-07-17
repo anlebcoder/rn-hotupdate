@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/apple/Desktop/work/t2/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/apple/.android/build-cache/a02aa4b244c17b73f5d33491b843a503b79e4b28/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/work/t2/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/apple/.android/build-cache/a02aa4b244c17b73f5d33491b843a503b79e4b28/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/work/t2/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/apple/.android/build-cache/a02aa4b244c17b73f5d33491b843a503b79e4b28/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/work/t2/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/apple/.android/build-cache/a02aa4b244c17b73f5d33491b843a503b79e4b28/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

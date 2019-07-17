@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/huyiming/Projects/company/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/huyiming/.android/build-cache/19b47219dae63f79d785cf0e496b8afbd4281c70/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/edz/Desktop/T1plus/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/edz/.android/build-cache/0e23767c3aa22cc80339c8af623ae79e305c1085/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/work/t2/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/apple/.android/build-cache/5dd9c19bfff501106787d8035339af0df7c4d664/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/work/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/apple/.android/build-cache/ae2a5f7e8443713a1f9bef802e0da956fb00f695/output/res/xml/preferences.xml"
+    }
+]

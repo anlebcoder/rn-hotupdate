@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/huyiming/Projects/company/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/huyiming/.android/build-cache/d4ff6e864c8bb3be332e34c6124da950734ba9db/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/work/t2/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/apple/.android/build-cache/a02aa4b244c17b73f5d33491b843a503b79e4b28/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/work/t2/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/apple/.android/build-cache/7f40c08e68b6d3643f16daebed768cd82a37a4ee/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/work/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/apple/.android/build-cache/7f40c08e68b6d3643f16daebed768cd82a37a4ee/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/edz/Desktop/T1plus/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/edz/.android/build-cache/97fe50a5ec31f769d95ab87ed7e657f4014cba5a/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/huyiming/Projects/company/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/huyiming/.android/build-cache/d4ff6e864c8bb3be332e34c6124da950734ba9db/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/work/t2/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/apple/.android/build-cache/7f40c08e68b6d3643f16daebed768cd82a37a4ee/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/work/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/apple/.android/build-cache/7f40c08e68b6d3643f16daebed768cd82a37a4ee/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/edz/Desktop/T1plus/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/edz/.android/build-cache/97fe50a5ec31f769d95ab87ed7e657f4014cba5a/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/edz/Desktop/T1plus/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/edz/.android/build-cache/97fe50a5ec31f769d95ab87ed7e657f4014cba5a/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/work/t2/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/apple/.android/build-cache/7f40c08e68b6d3643f16daebed768cd82a37a4ee/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/huyiming/Projects/company/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/huyiming/.android/build-cache/d4ff6e864c8bb3be332e34c6124da950734ba9db/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/work/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/apple/.android/build-cache/7f40c08e68b6d3643f16daebed768cd82a37a4ee/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

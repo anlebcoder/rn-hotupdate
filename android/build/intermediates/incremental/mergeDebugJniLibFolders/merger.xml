@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/apple/Desktop/work/t2/t1plusApp/node_modules/rn-hotupdate-d3j/android/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/apple/Desktop/work/t2/t1plusApp/node_modules/rn-hotupdate-d3j/android/src/debug/jniLibs"/></dataSet></merger>

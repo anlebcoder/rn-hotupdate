@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/apple/Desktop/work/t2/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/androidTest/debug/xml/preferences.xml",
+        "source": "/Users/apple/.android/build-cache/5dd9c19bfff501106787d8035339af0df7c4d664/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/work/t1plusApp/node_modules/rn-hotupdate-d3j/android/build/intermediates/res/merged/androidTest/debug/xml/preferences.xml",
+        "source": "/Users/apple/.android/build-cache/ae2a5f7e8443713a1f9bef802e0da956fb00f695/output/res/xml/preferences.xml"
+    }
+]
